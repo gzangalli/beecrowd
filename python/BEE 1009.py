@@ -37,4 +37,4 @@ bonus = (vendas * 15) / 100
 
 salarioTotal = salario + bonus
 
-print(f'TOTAL = R$ {salarioTotal:.{2}f}')
+print(f'TOTAL = R$ {salarioTotal:.2f}')
